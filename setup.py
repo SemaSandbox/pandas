@@ -13,7 +13,9 @@ from os.path import join as pjoin
 import platform
 import shutil
 import sys
+import pandas as pd
 from sysconfig import get_config_vars
+
 
 import numpy
 from pkg_resources import parse_version
